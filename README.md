@@ -1,4 +1,4 @@
-# TABS-Random-Unit-Generator
+# TABS-Random-Army-Generator
 
 The original project was made by iCeParadox64: https://github.com/iCeParadox64/Totally-Accurate-Battle-Simulator-Random-Team-Generator/blob/main/tabs-rtg.py
 
