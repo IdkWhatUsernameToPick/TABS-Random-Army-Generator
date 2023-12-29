@@ -4,8 +4,8 @@ The original project was made by iCeParadox64: https://github.com/iCeParadox64/T
 
 Edits I made: 
 added the Legacy faction,
-added the Fantasy good faction,
-added the Fentasy Evil faction,
+added the Fantasy Good faction,
+added the Fantasy Evil faction,
 added the Secret faction,
 now the minimum cost is 30 instead of 50.
 
