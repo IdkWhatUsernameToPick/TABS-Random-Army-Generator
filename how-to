@@ -13,3 +13,5 @@ To use this as an exe (the easier way), you have to:
 3. Input the amount of money you want the army to cost.
 4. The army scheme will appear.
 5. Done!
+
+You can easily add custom units. Make sure AddUnit.py and GeneratorTest.py are in the same folder. Open AddUnit.py. Fill out the name, faction, and cost. The new unit will appear in GeneratorTest.py. Keep in mind that setting the cost of an army less than 20 will not generate results.
